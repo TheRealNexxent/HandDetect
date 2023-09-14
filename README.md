@@ -1,2 +1,4 @@
-# HandDetect
-A Project for AR/VR featuring basic Hand Detection.
+# Hand-Detection-Media-Control
+
+Pause/Play music with fingers
+Increase and decrease volume using fingers
